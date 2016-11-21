@@ -1,0 +1,9 @@
+th.sort-down:after {
+  display: inline;
+  content: '↓';
+}
+
+th.sort-up:after {
+  display: inline;
+  content: '↑';
+}
